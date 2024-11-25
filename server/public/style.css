@@ -4,6 +4,8 @@
     box-sizing: border-box;
     font-size: 1rem;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #181717;
+    color: white;
 }
 
 body {
@@ -35,6 +37,8 @@ input {
 
 button {
     width: 20%;
+    background-color: rgb(30, 185, 30);
+    color: white;
 }
 
 input,
@@ -59,7 +63,7 @@ button {
 }
 
 .post {
-    background-color: #000000;
+    background-color: #272727;
     border-radius: 10px;
     padding: 0 0 .25rem;
     margin: .5rem;
@@ -87,11 +91,11 @@ button {
 }
 
 .post__header--user {
-    background-color: rgb(2, 69, 145);
+    background-color: rgb(21, 98, 187);
 }
 
 .post__header--reply {
-    background-color: rgb(126, 55, 126);
+    background-color: rgb(173, 63, 173);
 }
 
 .post__header--name {
