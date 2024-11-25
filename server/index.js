@@ -120,7 +120,8 @@ function buildMsg(name, text) {
         time: new Intl.DateTimeFormat('default', {
             hour: 'numeric',
             minute: 'numeric',
-            second: 'numeric'
+            second: 'numeric',
+            timeZone: 'America/Sao_Paulo'
         }).format(new Date())
     }
 }
