@@ -67,12 +67,12 @@ button {
     flex-shrink: 0;
 }
 
-.post--left {
+.post--right { /*mudei aq*/
     width: 60%;
     align-self: flex-start;
 }
 
-.post--right {
+.post--left {
     width: 60%;
     align-self: flex-end;
 }
