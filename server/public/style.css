@@ -43,7 +43,7 @@ button {
     padding: .5rem;
 }
 
-.exibicao-conversa {
+.chat-display {
     background-color: #333;
     list-style-type: none;
     width: 100%;
@@ -108,9 +108,9 @@ button {
     padding: .25rem .5rem;
 }
 
-.lista-usuario,
-.lista-sala,
-.atividade {
+.user-list,
+.room-list,
+.activity {
     width: 100%;
     min-height: 2.65rem;
     margin: 0 auto;
@@ -118,6 +118,6 @@ button {
     padding: .75rem .25rem;
 }
 
-.atividade {
+.activity {
     font-style: italic;
 }
