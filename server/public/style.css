@@ -4,7 +4,7 @@
     box-sizing: border-box;
     font-size: 1rem;
     font-family: Arial, Helvetica, sans-serif;
-    color: white;
+    
 }
 
 body {
@@ -110,7 +110,7 @@ button {
 
 .post__text {
     margin-top: 5px;
-    color: #ffffff;
+    color: #000000;
     padding: .25rem .5rem;
 }
 
