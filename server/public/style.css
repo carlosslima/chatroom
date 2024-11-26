@@ -86,7 +86,7 @@ button {
 }
 
 .post__header {
-    color: #000000;
+    color: #ffffff;
     padding: .25rem .5rem;
     display: flex;
     justify-content: space-between;
@@ -112,7 +112,7 @@ button {
 
 .post__text {
     margin-top: 5px;
-    color: #000000;
+    color: #ffffff;
     padding: .25rem .5rem;
 }
 
