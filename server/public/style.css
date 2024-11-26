@@ -4,6 +4,7 @@
     box-sizing: border-box;
     font-size: 1rem;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
     
 }
 
@@ -84,7 +85,7 @@ button {
 }
 
 .post__header {
-    color: #db0000;
+    color: #000000;
     padding: .25rem .5rem;
     display: flex;
     justify-content: space-between;
