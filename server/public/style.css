@@ -111,6 +111,7 @@ button {
 }
 
 .post__text {
+    background-color: none;
     margin-top: 5px;
     color: #ffffff;
     padding: .25rem .5rem;
